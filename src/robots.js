@@ -1,0 +1,40 @@
+export const robo =[
+    {
+        id:1,
+        name:"Robo1",
+        username:"ciass",
+        email:"abc@gmail.com"
+    },
+    {
+        id:2,
+        name:"Robo2",
+        username:"pdbak",
+        email:"fcne@gmail.com"
+    },
+    {
+        id:3,
+        name:"Robo3",
+        username:"adjda",
+        email:"adikafe@gmail.com"
+    },
+    {
+        id:4,
+        name:"Robo4",
+        username:"avusa",
+        email:"aefrwfew@gmail.com"
+    },
+    {
+        id:5,
+        name:"Robo5",
+        username:"wnfda",
+        email:"adedwdse@gmail.com"
+    },
+    {
+        id:5,
+        name:"Robo5",
+        username:"wfdasa",
+        email:"wfdasa@gmail.com"
+    },
+
+    
+]

@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family:  serif,'Times New Roman', Times, serif, BlinkMacSystemFont, 'Segoe UI' ,'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(to right top, #90b7f0, #00baee, #00bac9, #00b383, #26a523);
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
